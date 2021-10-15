@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Martin
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning Combine & Swift UI
+- 💞️ I’m looking to collaborate on OSS
+- 📫 How to reach me Discord @leprechaun#5273
